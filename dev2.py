@@ -17,9 +17,9 @@ class Person:
     
 # To call the class and function.
 
-p1 = Person("Dikshita Shetty",18)
+p1 = Person("devshah",18)
 p1.myfunc()
-p2 = Person("Aditi Patekar",17)
+p2 = Person("Jay shah",17)
 p1.myfunc()
 
 print("Program Over!!")
